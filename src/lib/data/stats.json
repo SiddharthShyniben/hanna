@@ -1528,5 +1528,22 @@
       "reactions": 405,
       "popularity": 46106.07240000001
     }
+  },
+  {
+    "timestamp": "2022-02-27T20:08:17.229Z",
+    "user": {
+      "publicationDomain": "blog.siddu.tech",
+      "numFollowers": 30,
+      "numFollowing": 1,
+      "numPosts": 9,
+      "numReactions": 405
+    },
+    "stats": {
+      "followers": 30,
+      "following": 1,
+      "posts": 9,
+      "reactions": 405,
+      "popularity": 46106.07240000001
+    }
   }
 ]
