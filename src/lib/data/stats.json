@@ -123231,5 +123231,22 @@
       "reactions": 705,
       "popularity": 88492.86889999999
     }
+  },
+  {
+    "timestamp": "2023-01-15T06:09:19.792Z",
+    "user": {
+      "publicationDomain": "blog.siddu.tech",
+      "numFollowers": 56,
+      "numFollowing": 1,
+      "numPosts": 17,
+      "numReactions": 705
+    },
+    "stats": {
+      "followers": 56,
+      "following": 1,
+      "posts": 17,
+      "reactions": 705,
+      "popularity": 88492.86889999999
+    }
   }
 ]
